@@ -12,6 +12,9 @@ oooooooo
 ## Deployment
 to ddd
 
+## How To Contribute
+please fork and then pull
+
 ### Copyright
 
 2014 Git.Training.
