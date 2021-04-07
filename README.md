@@ -18,4 +18,4 @@ please fork and then pull
 
 ### Copyright
 
-2014 Git.Training.
+2014 Git.Training. all r res
