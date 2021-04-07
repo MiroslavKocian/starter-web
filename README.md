@@ -11,3 +11,7 @@ oooooooo
 
 ## Deployment
 to ddd
+
+### Copyright
+
+2014 Git.Training.
